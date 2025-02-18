@@ -1,2 +1,2 @@
-# project-1 HOME PRICE PREDICTION
+# project-1 Ds_Salaries
 Data Analysis
